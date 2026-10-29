@@ -1,0 +1,2 @@
+# Rojo maps .lua files to Luau scripts; this code uses Luau syntax (--!strict, +=)
+*.lua linguist-language=Luau
